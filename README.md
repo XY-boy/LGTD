@@ -7,3 +7,7 @@ Code will come soon after our paper is accepted!
  
  # Quantitive results
  ![image](/fig/res1.png)
+
+ ## Contact
+If you have any questions or suggestions, feel free to contact me.  
+Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
