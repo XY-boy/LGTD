@@ -1,4 +1,4 @@
-# LGTD (IEEE TCSVT, under review)
+# LGTD (IEEE TCSVT, 2023)
 # This is the official implementation of our paper.
 🚀🚀Code will come soon after our paper is accepted!
 
