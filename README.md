@@ -1,7 +1,7 @@
 # LGTD (IEEE TCSVT 2023)
 ### 📖[**Paper**](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | 🖼️[**PDF**](./img/XY-IF.pdf)
 
-PyTorch codes for "[Local-Global Temporal Difference Learning for Satellite Video Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253523001100)", **IEEE Transactions on Circuits and Systems for Video Technology**, 2023.
+PyTorch codes for "[Local-Global Temporal Difference Learning for Satellite Video Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253523001100)", **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2023.
 
 🚀🚀Code will come soon after our paper is accepted!
 
