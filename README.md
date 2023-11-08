@@ -12,5 +12,5 @@ PyTorch codes for "[Local-Global Temporal Difference Learning for Satellite Vide
  ![image](/fig/res1.png)
 
  ## Contact
-If you have any questions or suggestions, feel free to contact me.  
-Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
+If you have any questions or suggestions, feel free to contact me. 😊  
+Email: xiao_yi@whu.edu.cn; xy574475@gmail.com
