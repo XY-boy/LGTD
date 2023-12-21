@@ -1,5 +1,5 @@
 # LGTD (IEEE TCSVT 2023)
-### 📖[**Paper**](https://ieeexplore.ieee.org/document/10239514) | 🖼️[**PDF**](./img/lgtd.pdf)
+### 📖[**Paper**](https://ieeexplore.ieee.org/document/10239514) | 🖼️[**PDF**](./img/lgtd.pdf) | 🎁[**Dataset**](https://zenodo.org/record/6969604)
 
 PyTorch codes for "[Local-Global Temporal Difference Learning for Satellite Video Super-Resolution](https://ieeexplore.ieee.org/document/10239514)", **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2023.
 
@@ -55,12 +55,12 @@ python main.py
 ```
 python eval.py
 ```
+### Qualitative results
+ ![image](/fig/res2.png)
+ 
 ### Quantitative results
  ![image](/fig/res1.png)
  
-### Qualitative results
- ![image](/fig/res2.png)
-
 #### More details can be found in our paper!
 
 ## Contact
