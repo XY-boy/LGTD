@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/vision.cpp
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/cpu/dcn_v2_cpu.cpp
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/cpu/dcn_v2_im2col_cpu.cpp
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/cpu/dcn_v2_psroi_pooling_cpu.cpp
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/cuda/dcn_v2_cuda.cu
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/cuda/dcn_v2_im2col_cuda.cu
+D:/VSR_work2/mynet_code/TDMVSR-main/DCNv2/src/cuda/dcn_v2_psroi_pooling_cuda.cu
+DCNv2.egg-info/PKG-INFO
+DCNv2.egg-info/SOURCES.txt
+DCNv2.egg-info/dependency_links.txt
+DCNv2.egg-info/top_level.txt
+test/test.py
+test/testcpu.py
+test/testcuda.py
