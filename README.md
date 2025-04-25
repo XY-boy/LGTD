@@ -63,6 +63,9 @@ python eval.py
  
 #### More details can be found in our paper!
 
+## Acknowledgement
+The temporal difference modules are built upon the awesome video architecture ["Temporal Difference Networks for Efficient Action Recognition"](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_TDN_Temporal_Difference_Networks_for_Efficient_Action_Recognition_CVPR_2021_paper.html). We thank this excellent work for inspiring our research. For more technical details and references, please refer to the official repository [TDN](https://github.com/MCG-NJU/TDN).
+
 ## Contact
 If you have any questions or suggestions, feel free to contact me. 😊  
 Email: xiao_yi@whu.edu.cn; xy574475@gmail.com
