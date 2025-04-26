@@ -87,6 +87,10 @@ class TDM_S(nn.Module):
 
 # TDM-long
 class TDM_L(nn.Module):
+    """Temporal Difference Modules (Temporal Difference Networks for Efficient Action Recognition (CVPR 2021)).
+
+    Borrows From: https://github.com/MCG-NJU/TDN
+    """
 
     def __init__(self, nframes, apha=0.5, belta=0.5):
         super(TDM_L, self).__init__()
