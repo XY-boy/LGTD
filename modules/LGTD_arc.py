@@ -15,6 +15,10 @@ import torch.nn.functional as F
 
 # TDM-short
 class TDM_S(nn.Module):
+    """Temporal Difference Modules (Temporal Difference Networks for Efficient Action Recognition (CVPR 2021)).
+
+    Borrows From: https://github.com/MCG-NJU/TDN
+    """
 
     def __init__(self, nframes, apha=0.5, belta=0.5, nres_b=1):
         super(TDM_S, self).__init__()
